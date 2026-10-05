@@ -1,0 +1,12 @@
+node_modules/
+out/
+.env
+.env.*
+!.env.example
+*.log
+.remotion/
+
+# Local voice and music assets are intentionally not published.
+public/audio/*.mp3
+public/audio/*.wav
+

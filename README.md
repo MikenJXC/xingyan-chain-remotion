@@ -38,4 +38,3 @@ public/audio/xingyan-voiceover-40s.wav
 - `docs/`：连续叙事稿、制作提示词和物体因果表
 - `scripts/`：音频生成辅助脚本
 
-
